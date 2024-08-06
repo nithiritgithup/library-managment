@@ -21,3 +21,10 @@ The Library Management System is a Python-based command-line application designe
 1. Clone the Repository:
    ```bash
    git clone https://github.com/yourusername/library-management-system.git
+2.Navigate to the Project Directory:
+
+cd library-management-system
+
+3.Run the Application:
+
+python library_management_system.py
